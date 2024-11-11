@@ -105,13 +105,13 @@
 /* contact us section starts */
 
 h2 {
-    font-size: 32px;
-    line-height: 42px;
+    font-size: 28px;
+    line-height: 38px;
     margin: 10px 0px 0px;
 }
 .contact-form {
-    width: 225px;
-    margin: 10px;
+    width: 217px;
+    margin: 5px;
     padding: 17px;
 }
 .form-control1{
@@ -230,12 +230,12 @@ h2 {
 h2 {
     font-size: 40px;
     line-height: 50px;
-    margin: 20px 0px 0px;
+    margin: 10px 0px 0px;
 }
 .contact-form {
-    width: 300px;
-    margin: 10px;
-    padding: 18px;
+    width: 280px;
+    margin: 20px 10px;
+    padding: 15px;
 }
 .form-control1{
 	width: 23%;
@@ -472,7 +472,7 @@ h2{
 /* about us section ends */
 /* contact us section starts */
 .contact-form{
-	margin: 40px 50px;
+	margin: 50px 80px;
 }
 /* contact us section ends */
 /*CSS ends*/

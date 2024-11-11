@@ -210,27 +210,18 @@ a, a:hover{
 	.contact-form{
 		width: 500px;
 		float: left;
-		margin: 40px;
+		margin: 40px 270px;
 		padding: 40px;
 		border-radius: 35px;
 		border: 3px solid black;
 		background: #eee;
 }
-	.contact{
-	width: 100%;
-	}
+
 	.form-group{
 		width: 100%;
 		margin: 15px 0;
 	}
-	.form-group label{
-		display: block;
-		font-size: 14px;
-		line-height: 24px ;
-		text-transform: uppercase ;
-		font-weight: 600;
-		color: black;
-	}
+	
 	.form-group label{
 		display: block;
 		font-size: 14px;
